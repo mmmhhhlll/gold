@@ -1,0 +1,31 @@
+# MT5 交易助手 - 依赖库
+# 安装命令: pip install -r requirements.txt
+
+# 核心数据处理
+numpy
+pandas
+
+# 技术分析库
+pandas-ta
+
+# 科学计算
+scipy
+
+# 图表可视化
+matplotlib
+
+# 终端美化与日志
+rich
+
+# 环境变量管理
+python-dotenv
+
+# 任务调度
+schedule
+
+# HTTP 请求 (Bark 推送)
+requests
+
+# MetaTrader5 官方 Python API (Windows 专用)
+# 注意: MetaTrader5 只能在 Windows 上安装和运行
+MetaTrader5
